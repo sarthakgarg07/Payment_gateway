@@ -80,6 +80,3 @@ cd Payment_gateway
 
 ## Screenshots
 _Add screenshots of the homepage, Stripe checkout, and admin dashboard here_
-
-## License
-MIT
